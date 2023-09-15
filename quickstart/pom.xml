@@ -27,8 +27,7 @@
   <inceptionYear>2020</inceptionYear>
   <properties>
     <java.version>11</java.version>
-
-    <quarkus.platform.version>3.3.1</quarkus.platform.version>
+    <quarkus.platform.version>3.4.0.CR1</quarkus.platform.version>
     <quarkus.platform.artifact-id>quarkus-bom</quarkus.platform.artifact-id>
     <quarkus.platform.group-id>io.quarkus.platform</quarkus.platform.group-id>
     <datastax-java-driver.version>4.17.0</datastax-java-driver.version>
